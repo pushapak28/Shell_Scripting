@@ -1,0 +1,12 @@
+export EO_CM_FQDN=n17-stc-eo1.sc.sero.gic.ericsson.se
+export AUTHORIZATION=VG50X1BEVS1DRF9ONTMtdlBPRDRfRU8xOkNsb3VkQWRtaW4xMjNA
+export TENANT=Tnt_PDU-CD_N53-vPOD4_EO1
+
+export Gen_Token=$(curl -X POST --header 'Authorization: Basic '${AUTHORIZATION} --header 'TenantId: '${TENANT} --insecure https://${EO_CM_FQDN}:443/ecm_service/tokens >> output_token.json) \
+
+export TOKENID=SsY_fUyUtGbHOrFLe8mGTNJzUPU.*AAJTSQACMDIAAlNLABxpSGd3bHlmVTlRVWRRSHZiS05mcFFGcFBXOHc9AAR0eXBlAANDVFMAAlMxAAIwMQ..*
+#&e&cho $VNF_Managers
+
+export Vnf_manager=$(curl -k -X GET https://${EO_CM_FQDN}:443/ecm_service/vnfms -H 'AuthToken: '${TOKENID} >> mangers_output.json)\
+&&echo $Vnf_manager
+

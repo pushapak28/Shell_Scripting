@@ -1,0 +1,9 @@
+{"status":
+	{"reqStatus":"SUCCESS",
+		"credentials":"R3DMPF8VIAKG6xLa5vOlp7kqmqE.*AAJTSQACMDIAAlNLABxXVVhKZkJhMmVOL1ZJQWhRUTBYTGY1V2w2TjA9AAR0eXBlAANDVFMAAlMxAAIwMQ..*",
+			"msgs":[{"msgCode":"ECMSE103",
+				"msgText":"User %A1% was authenticated successfully.",
+				"msgValues":["Tnt_PDU-CD_N53-vPOD4_EO1"]}]
+	}
+}
+{"status":{"reqStatus":"SUCCESS","credentials":"fucapNFtNeQO20eAMlYiR4-OvSI.*AAJTSQACMDIAAlNLABwvUlVwczI2YkhJdGJvb2J4amwySWppNHZqTWc9AAR0eXBlAANDVFMAAlMxAAIwMQ..*","msgs":[{"msgCode":"ECMSE103","msgText":"User %A1% was authenticated successfully.","msgValues":["Tnt_PDU-CD_N53-vPOD4_EO1"]}]}}{"status":{"reqStatus":"SUCCESS","credentials":"xD1A61dn34KmF1EENoBJ-Nb15JA.*AAJTSQACMDIAAlNLABxyc2I2N1NOZTF0cUpZNXgrR01kUzZ1VklrOHM9AAR0eXBlAANDVFMAAlMxAAIwMQ..*","msgs":[{"msgCode":"ECMSE103","msgText":"User %A1% was authenticated successfully.","msgValues":["Tnt_PDU-CD_N53-vPOD4_EO1"]}]}}{"status":{"reqStatus":"SUCCESS","credentials":"zJ0AZRdx744WJwbGCCnJ-yLAKFA.*AAJTSQACMDIAAlNLABxUT0dTWG5JM0dIZHRBNG9FSnBsbWVIWUdZWTA9AAR0eXBlAANDVFMAAlMxAAIwMQ..*","msgs":[{"msgCode":"ECMSE103","msgText":"User %A1% was authenticated successfully.","msgValues":["Tnt_PDU-CD_N53-vPOD4_EO1"]}]}}

@@ -1,0 +1,1 @@
+{ "status": { "reqStatus": "SUCCESS", "credentials": "-oWUWB98k5kf819chLJCd0hzNPk.*AAJTSQACMDIAAlNLABwyRitjYnZ5cng4YWI4M0lOdmluYzc4aUpHMUE9AAR0eXBlAANDVFMAAlMxAAIwMQ..*", "msgs": [ { "msgCode": "ECMSE103", "msgText": "User %A1% was authenticated successfully.", "msgValues": [ "Tnt_PDU-CD_N53-vPOD4_EO1" ] } ] } }
